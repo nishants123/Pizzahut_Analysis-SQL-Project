@@ -55,3 +55,6 @@ Technologies Used:-
 • SQL
 
 • MySQL
+
+• PowerPoint
+
